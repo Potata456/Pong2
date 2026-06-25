@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_raquete_player2",
+    "path":"sprites/spr_raquete_player2/spr_raquete_player2.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
