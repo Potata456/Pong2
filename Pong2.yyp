@@ -45,6 +45,7 @@
     {"id":{"name":"obj_pontos","path":"objects/obj_pontos/obj_pontos.yy",},},
     {"id":{"name":"obj_raquete_player1","path":"objects/obj_raquete_player1/obj_raquete_player1.yy",},},
     {"id":{"name":"obj_raquete_player2","path":"objects/obj_raquete_player2/obj_raquete_player2.yy",},},
+    {"id":{"name":"obj_raquete_player3","path":"objects/obj_raquete_player3/obj_raquete_player3.yy",},},
     {"id":{"name":"rm_jogo","path":"rooms/rm_jogo/rm_jogo.yy",},},
     {"id":{"name":"rm_menu","path":"rooms/rm_menu/rm_menu.yy",},},
     {"id":{"name":"rm_v1","path":"rooms/rm_v1/rm_v1.yy",},},
